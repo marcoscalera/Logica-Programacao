@@ -1,0 +1,20 @@
+Assuma A = 2; B = 3; C = 10 e escreva o resultado (V ou F) para cada proposição abaixo:
+
+a. !(A > B)  - V
+b. !(B < C)  - F
+c. A < B && C > B  - V
+d. A < B && C < B  - F
+e. A > B && C > B  - F
+f. A > B && C < B  - F
+g. A < B && C > B && A > 0  - V
+h. A < B && C > B && A < 0  - F
+i. A < B || C > B  - V
+j. A < B || C < B  - V
+k. A > B || C > B  - V
+l. A > B || C < B  - F
+m. A < B && C > B || A > 0  - V
+n. A < B || C > B || A < 0  - V
+o. !(A < B && C > B)  - F
+p. !A < B && C > B    - V
+q. !(A > B) && C > B  - V
+r. !(A > B) || B > C  - V
